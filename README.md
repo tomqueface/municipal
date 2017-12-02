@@ -1,13 +1,13 @@
-GotToVote-RCI
+Vamos Votar
 =============
 
-*Demo: http://rci.gottovote.cc*
+*Demo: http://votar.ntatenda.com*
 
-[GotToVote](http://gottovote.cc/)'s Registration Centres Information (R.C.I.) platform.
+[VamosVotar](http://votar.ntatenda.com/) é uma plataforma que visa ajudar os eleitores a encontrarem o seu posto de votação.
 
-#### Installation
+#### Instalar
 
-You can find installation docs [here](http://gottovote.cc/docs).
+Pode encontrar a descrição [aqui](http://gottovote.cc/docs).
 
 
 
