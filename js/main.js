@@ -47,7 +47,7 @@ county_sel.onchange = function () {
     const_sel.innerHTML = "<option value=\"0\">A listar os postos administrativos... </option>";
     ward_sel.innerHTML = "<option value=\"0\">A listar os Bairros...</option>";
 
-    header_name.innerHTML = unescape(toTitleCase(escape(county_sel.options[county_sel.selectedIndex].innerHTML))) + " Region";
+    header_name.innerHTML = unescape(toTitleCase(escape(county_sel.options[county_sel.selectedIndex].innerHTML))) + " ";
 
     $("#reg-centres").html("<tr><td>" +
         "<p><img src=\"img/spinner.gif\" alt=\"\" />" +
