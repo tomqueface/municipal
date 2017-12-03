@@ -51,7 +51,7 @@ county_sel.onchange = function () {
 
     $("#reg-centres").html("<tr><td>" +
         "<p><img src=\"img/spinner.gif\" alt=\"\" />" +
-        "Finding registration centres...</p></td></tr>");
+        "Procurando os postos de votação...</p></td></tr>");
     $("#found-reg").slideDown('fast');
 
     county_code = county_sel.value;
