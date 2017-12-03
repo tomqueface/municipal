@@ -3,7 +3,7 @@
 country: "Moçambique"
 election_year: "2018"
 
-registration_end_date: "-"
+registration_end_date: "26th January 2018"
 
 api_key: "AIzaSyAwvkIls5mQybyp2R3g4FGiVetNdeVjUeE"
 table_id: "1CSlnHwpe8qTpBAoSiwZAAH7PVbV0w9kRkvUypmXP"
@@ -13,7 +13,7 @@ enforce_ssl: votar.ntatenda.com   # without any protocol
 
 google_analytics: 'UA-110579932-1'
 
-openafrica_url: 'http://africaopendata.org/dataset/voter-registration-2016'
+url: 'votar.ntatenda.com'
 
 # ------------------------------------------------------------------------------
 # Jekyll Config
@@ -23,3 +23,28 @@ safe: true
 
 # Conversion
 highlighter: rouge
+
+
+# ------------------------------------------------------------------------------
+# Fusion Tables Config
+ft:
+  admin_levels:
+    - id_col: "Province Code"
+      name_col: "Province Name"
+      title: "Province"
+    - id_col: "District Code"
+      name_col: "District Name"
+      title: "District"
+    - id_col: "Constituency Code"
+      name_col: "Constituency Name"
+      title: "Constituency"
+  reg_centres:
+    id_col: "Id"
+    name_col: "Polling Station / Reg Centre"
+    phase_col: "Phase"
+    phase_start_col: "Phase Start"
+    phase_end_col: "Phase End"
+    title: "Registration Centres"
+    ward_name_col: "Ward Name"
+    polling_district_no: "Polling District No."
+polling_district_name: "Polling District Name"
