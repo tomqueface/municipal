@@ -9,7 +9,7 @@ api_key: "AIzaSyB7yJRhV-SiMV4q7JB8yJI8HEeorZsN6jI"
 table_id: "1JZqEtS8wR1dSU-zwOcnpzW6ycfWxP-vjYI2PtEsc"
 
 url: https://votar.ntatebda.com   # with the https protocol
-enforce_ssl: votar.ntatenda.com   # without any protocol
+
 
 google_analytics: 'UA-110579932-1'
 
