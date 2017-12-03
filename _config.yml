@@ -1,9 +1,9 @@
 # GotToVote Config
 
-country: "Nampula"
+country: "Mozambique"
 election_year: "2018"
 
-registration_end_date: "24_01_2018"
+registration_end_date: "-"
 
 api_key: "AIzaSyDdjAjw39IN4BtFMjsHkUflGPdDsd_NC7g"
 table_id: "13jyLaSucxErsyMX8LObHaU7Z49VLkTMuILOPhf6N"
@@ -11,7 +11,7 @@ table_id: "13jyLaSucxErsyMX8LObHaU7Z49VLkTMuILOPhf6N"
 url: https://votar.ntatebda.com   # with the https protocol
 enforce_ssl: votar.ntatenda.com   # without any protocol
 
-google_analytics: 'UA-36749298-1'
+google_analytics: 'UA-110579932-1'
 
 openafrica_url: 'http://africaopendata.org/dataset/voter-registration-2016'
 
