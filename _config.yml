@@ -6,7 +6,7 @@ election_year: "2018"
 registration_end_date: "26th January 2018"
 
 api_key: "AIzaSyB7yJRhV-SiMV4q7JB8yJI8HEeorZsN6jI"
-table_id: "1CSlnHwpe8qTpBAoSiwZAAH7PVbV0w9kRkvUypmXP"
+table_id: "1WwZ5OZEXAeFwxVPVyjT8IytEWqpItLy2whADpieX"
 
 url: https://votar.ntatebda.com   # with the https protocol
 enforce_ssl: votar.ntatenda.com   # without any protocol
