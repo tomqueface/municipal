@@ -30,7 +30,7 @@ var json_result;
 
 var get_url = "https://www.googleapis.com/fusiontables/v2/query?sql=";
 var sql_1 = encodeURIComponent("SELECT * FROM ");
-var sql_2 = encodeURIComponent(" WHERE 'County Code' = " + region_code);
+var sql_2 = encodeURIComponent(" WHERE 'County Code' = " + Region_Code);
 var api_key = "&key={{ site.api_key }}";
 
 var table_id = "{{ site.table_id }}";
