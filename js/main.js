@@ -136,7 +136,7 @@ const_sel.onchange = function () {
           "<tr><td><p>" + toTitleCase(centre_name[i]) + "</p></td></tr>");
     }
 
-    header_name.innerHTML = unescape(toTitleCase(escape(ward_name[0]))) + " Ward";
+    header_name.innerHTML = unescape(toTitleCase(escape(ward_name[0]))) + " ";
   }
 };
 
