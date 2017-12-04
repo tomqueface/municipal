@@ -55,7 +55,7 @@ county_sel.onchange = function () {
     $("#found-reg").slideDown('fast');
 
     county_code = county_sel.value;
-    sql_2 = encodeURIComponent(" WHERE 'County Code' = " + county_code);
+    sql_2 = encodeURIComponent(" WHERE 'County Code' = " + region_code);
     run_get_centres(table_id);
   }
 };
