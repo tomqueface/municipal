@@ -303,7 +303,7 @@ function run_get_centres(table_id) {
             "<tr><td><p>" + toTitleCase(ward_reg_name[i]) + "</p></td></tr>");
       }
 
-      header_name.innerHTML = unescape(toTitleCase(escape(ward_name[0]))) + " Ward";
+      header_name.innerHTML = unescape(toTitleCase(escape(ward_name[0]))) + " ";
 
     }
   };
