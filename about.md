@@ -5,7 +5,7 @@ about: active
 ---
 
 > O exercício do direito à informação rege-se, entre outros, pelo princípio da permanente participação democrática dos cidadãos na vida pública.
-> <footer>Lei do Direito à Inromação, <cite title="Source Title">√/cite></footer>
+> <footer>Lei do Direito à Inromação, <cite title="Source Title">√</cite></footer>
 
 <p class="lead">A Plataforma foi desenvolvida para ajudar os cidadãos a encontrar o posto de votação mais próximo, para que possam se dirigir no dia das eleições.</p>
 
