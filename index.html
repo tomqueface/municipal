@@ -12,9 +12,9 @@ custom_js: main
 </div> -->
 
 <div class="jumbotron" id="jumbotron">
-  <h1>Eleições Nampula 2018!</h1>
-  <p class="lead">No dia <b>14 de Março, Nampula</b> irá votar para a escolha do próximo Presidente do Conselho Municipal. Encontre aqui o posto de votação mais próximo de si.</p>
-  <p><a class="btn btn-large btn-success" href="#" id="findlink" onclick="javascript:goToByScroll('findlink');">Localizar posto de votação</a></p>
+  <h1>Partidos e Cabeças de Lista!</h1>
+  <p class="lead">No dia <b>10 de Outubro</b> Moçambique irá realizar as V eleições autárquicas! Encontre aqui a informação sobre os partidos/grupos e os respectivos cabeças de lista que irão concorrer no teu município.</p>
+  <p><a class="btn btn-large btn-success" href="#" id="findlink" onclick="javascript:goToByScroll('findlink');">Localizar partidos/grupos</a></p>
 </div>
 
 <hr />
@@ -66,15 +66,25 @@ custom_js: main
         <p class="lead">Província</p>
         <select id="county_select" class="form-control">
             <option value="0">Escolher Província</option>
-            <option value="1">Nampula</option>
+            <option value="1">Cidade de Maputo</option>
+            <option value="2">Província de Maputo</option>
+            <option value="3">Gaza</option>
+            <option value="4">Inhambane</option>
+            <option value="5">Sofala</option>
+            <option value="6">Manica</option>
+            <option value="7">Tete</option>
+            <option value="8">Zambézia</option>
+            <option value="9">Nampula</option>
+            <option value="10">Cabo Delgado</option>
+            <option value="11">Niassa</option>
         </select>
       </div>
     </div>
     <div class="col-md-4">
       <div style="text-align: center;">
-        <p class="lead">Posto Administrativo</p>
+        <p class="lead">PMunicípio</p>
         <select id="const_select" class="form-control">
-          <option value="0">- Escolha um Posto Adm. -</option>
+          <option value="0">- Escolha um Município. -</option>
         </select>
       </div>
     </div>
@@ -82,7 +92,7 @@ custom_js: main
       <div style="text-align: center;" >
         <p class="lead">Localidade</p>
         <select id="ward_select" class="form-control">
-          <option value="0">- Escolha uma Localidade -</option>
+          <option value="0">- Escolha um partido -</option>
         </select>
       </div>
     </div>
@@ -91,7 +101,7 @@ custom_js: main
   <div id="found-reg" style="display: none;">
     <table class="table table-hover" style="margin-bottom: 0;">
       <thead><tr><td>
-        <h4>Postos de votação em <span id="header-name">Localidade</span></h4>
+        <h4>Cabeças de Lista em <span id="header-name">Partidos</span></h4>
       </td></tr></thead>
       <tbody id="reg-centres">
       </tbody>
