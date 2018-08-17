@@ -24,5 +24,3 @@ safe: true
 # Conversion
 highlighter: rouge
 
-
-theme: jekyll-theme-cayman
