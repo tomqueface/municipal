@@ -8,12 +8,12 @@ registration_end_date: "26th January 2018"
 api_key: "AIzaSyB7yJRhV-SiMV4q7JB8yJI8HEeorZsN6jI"
 table_id: "1cs1DmRtNDRSpszHUBy5Nx5NyqaXrIglNJ1PHAy39"
 
-url: https://tomqueface.github.io/municipal/   # with the https protocol
+url: https://municipais.ntatenda.com/   # with the https protocol
 
 
 google_analytics: 'UA-110579932-1'
 
-url: 'https://tomqueface.github.io/municipal/'
+url: 'https://municipais.ntatenda.com/'
 
 # ------------------------------------------------------------------------------
 # Jekyll Config
