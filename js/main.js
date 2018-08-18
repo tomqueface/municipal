@@ -45,7 +45,7 @@ county_sel.onchange = function () {
       county_sel.remove(0);
     }
     const_sel.innerHTML = "<option value=\"0\">A listar os municípios... </option>";
-    ward_sel.innerHTML = "<option value=\"0\">A listar os cabeças de lista...</option>";
+    ward_sel.innerHTML = "<option value=\"0\">A listar os partidos...</option>";
 
     header_name.innerHTML = unescape(toTitleCase(escape(county_sel.options[county_sel.selectedIndex].innerHTML))) + " ";
 
