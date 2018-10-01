@@ -11,9 +11,9 @@ about: active
 
 A Plataforma explica igualmente de forma breve acerca do processo de votação, informando sobre a documentação a ser levada no posto de votação mais próximo.
 
-A missão do <b>Ntatenda</b> assenta-se no desejo de servir ao bem comum, promovendo a transparência da informação.
+A missão do <b>Ntatenda© assenta-se no desejo de servir ao bem comum, promovendo a transparência da informação.
 Somos um grupo de activistas, não partidários, que procura melhorar o acesso a informação e promover a tomada de decisões informadas.
 
-Este não é um site governamental. Fo desenvolvido por activistas do <a href="http://ntatenda.com/" target="_blank">Ntatenda</a> em parceria com a organização <a href="http://www.codeforafrica.org" target="_blank">Code for Africa</a>.
+Este não é um site do governo. Fo desenvolvido por activistas do <a href="http://ntatenda.com/" target="_blank">Ntatenda</a> em parceria com a organização <a href="http://www.codeforafrica.org" target="_blank">Code for Africa</a>.
 
-O projecto foi desenvolvido com base no esforço individual dos membros do Ntatenda. Faça hoje um  <a href="http://eleicoes.ntatenda.com/doacoes/" target="_blank"><b>DONATIVO</b></a> para podermos expandir os nossos projectos.
+O projecto foi desenvolvido com base no esforço individual dos membros do Ntatenda. <b>NÃO POSSUI QUALQUER FINANCIAMENTO NEM APOIO</b>. Faça hoje um  <a href="http://eleicoes.ntatenda.com/doacoes/" target="_blank"><b>DONATIVO</b></a> para podermos expandir os nossos projectos.
