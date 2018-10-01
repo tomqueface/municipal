@@ -7,7 +7,7 @@ about: active
 > O exercício do direito à informação rege-se, entre outros, pelo princípio da permanente participação democrática dos cidadãos na vida pública.
 > <footer>Lei do Direito à Infomação, Lei n.º 34/2014 de 31 de Dezembro <cite title="Source Title">√</cite></footer>
 
-<p class="lead">A Plataforma foi desenvolvida para ajudar os cidadãos a identificar o cabeça-de-lista das autarquias. Ntatenda procurou obter os nomes de todos os cabeças-de-lista das 53 autarquias, mas sem sucesso. Alguns partidos não colaboraram.</p>
+<p class="lead">A Plataforma foi desenvolvida para ajudar os cidadãos a identificar o cabeça-de-lista da sua autarquia. Ntatenda procurou obter os nomes de todos os cabeças-de-lista das 53 autarquias, mas sem sucesso. Alguns partidos não colaboraram.</p>
 
 A Plataforma explica igualmente de forma breve acerca do processo de votação, informando sobre a documentação a ser levada no posto de votação mais próximo.
 
